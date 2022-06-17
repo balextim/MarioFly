@@ -1,0 +1,62 @@
+
+marioflyAtlas.png
+size: 1212, 1288
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+gameOver
+  rotate: false
+  xy: 910, 422
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+mario1
+  rotate: false
+  xy: 1012, 370
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+mario2
+  rotate: false
+  xy: 910, 268
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+pipe
+  rotate: false
+  xy: 384, 21
+  size: 261, 701
+  orig: 261, 701
+  offset: 0, 0
+  index: -1
+pipeup
+  rotate: false
+  xy: 647, 21
+  size: 261, 701
+  orig: 261, 701
+  offset: 0, 0
+  index: -1
+superario
+  rotate: false
+  xy: 2, 724
+  size: 1200, 562
+  orig: 1200, 562
+  offset: 0, 0
+  index: -1
+tap
+  rotate: false
+  xy: 910, 320
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+world
+  rotate: false
+  xy: 2, 2
+  size: 380, 720
+  orig: 380, 720
+  offset: 0, 0
+  index: -1
